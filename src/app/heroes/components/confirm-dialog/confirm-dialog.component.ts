@@ -1,4 +1,4 @@
-import { Component, Inject, inject, Input, input } from '@angular/core';
+import { Component, Inject, Input } from '@angular/core';
 import { Hero } from '../../interfaces/hero.interface';
 import { MAT_DIALOG_DATA, MatDialogRef } from '@angular/material/dialog';
 
